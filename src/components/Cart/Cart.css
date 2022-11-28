@@ -1,0 +1,8 @@
+.text {
+    color: rgb(44, 8, 135);
+}
+
+.cart {
+    position: sticky;
+    top: 15px;
+}
