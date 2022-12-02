@@ -1,6 +1,7 @@
 
 import { useState } from 'react';
 import Cart from './components/Cart/Cart';
+import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Main from './components/Main/Main';
 import data from './data';
@@ -54,6 +55,7 @@ function App() {
         <Main onAdd={onAdd} products={products} onRefresh={onRefresh} ></Main>
         <Cart onAdd={onAdd} cartItems={cartItems} onRemove={onRemove} onRefresh={onRefresh} onSelect={onSelect}></Cart>
       </div>
+      <Footer></Footer>
     </div>
   );
 }

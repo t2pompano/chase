@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Chase-one
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [netlify App](https://t2pompano-chaseone.netlify.app/).
 
 ## Available Scripts
 
