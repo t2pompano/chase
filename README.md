@@ -1,6 +1,6 @@
 # Chase-one
 
-This project was bootstrapped with [netlify App](https://t2pompano-chaseone.netlify.app/).
+This project was bootstrapped with [Chase-One](https://t2pompano-chaseone.netlify.app/).
 
 ## Available Scripts
 
